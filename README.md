@@ -4,7 +4,7 @@ Hi 👋 My name is Maxim
 Java-Developer
 --------------
 
-Инженер-проектировщик АСУ ТП. Изучаю JAVA.
+ACS Engineer. Learning JAVA.
 
 * 🌍  I'm based in Saint-Petersburg
 
