@@ -1,4 +1,4 @@
-Hi 👋 My name is Maxim
+I am Maxim
 ===============================
 
 Java-Developer
