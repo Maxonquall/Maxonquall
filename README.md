@@ -1,4 +1,4 @@
-Hi 👋 My name is Maxim Sirotkin
+Hi 👋 My name is Maxim
 ===============================
 
 Java-Developer
